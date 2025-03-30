@@ -1,0 +1,5 @@
+yolo_dataset/
+yolo_val/
+yolo_model_trined_on_head.pt
+yolov8n.pt
+yolo_model_trained_on_head.pt
