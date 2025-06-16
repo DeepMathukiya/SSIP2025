@@ -5,4 +5,3 @@ yolov8n.pt
 yolo_model_trained_on_head.pt
 output_results/
 __pycache__/
-
